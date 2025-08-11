@@ -12,14 +12,14 @@
 	"antiInbox": true,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "♡︎𝗠𝗜𝗥𝗔 𝗞𝗜𝗠 𝗥𝗢𝗕𝗢𝗧♡︎🚬",
+	"nickNameBot": "♡︎RedHeart♡︎🚬",
 	"prefix": "-",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100044855600383"
+		"61557313217366"
 	],
 	"nisanBot": [
 		"GROUP_ID"
